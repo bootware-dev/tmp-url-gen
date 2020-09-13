@@ -2,7 +2,6 @@
 
 ## Requires
  - Java 11 (Amazon Corretto)
- - [mod-auth-token](https://code.google.com/archive/p/mod-auth-token/)
  
 ## How to Use
  
